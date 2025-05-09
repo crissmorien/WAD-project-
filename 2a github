@@ -1,0 +1,35 @@
+//Create version control account on GitHub and using Git commands to create repository and push your
+code to GitHub.
+
+1. create new folder in vs studio
+
+2. To create new directory:
+	mkdir Part-A
+	cd Part-A
+
+3. Create new repo in GitHub
+
+4. Create txt file in Part-A
+
+5.
+git init
+git add .
+git status
+git remote add origin "GitHub repo link"
+git commit -m "First commit"
+git status
+git push -u origin master
+
+6. pushing 2nd file
+- create txt file 
+
+git add .
+git commit -m "second commit"
+git push .u origin master
+
+authentication:
+git config --global user.email "emil addrs"
+git config --global user.name "user name"
+
+Username for "https.//GitHub.com":uName
+Password for "https.//GitHub.com":pass
